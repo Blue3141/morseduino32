@@ -8,17 +8,17 @@
 The Morseduino32 is a device which allows to send and receive Morse code to and from another Morseduino32, through the ESP-NOW protocol; the final goal is to implement an online server to send the Morse code through the Internet. The project is still a work-in-progress, so please be patient!
 
 #### Roadmap
-☒ Build the first prototype
-☒ Test the hardware
-~~☒ Build the second prototype~~ *high voltage during the recharge broke the LILYGO*
-☒ Build, train and test on KNIME the Neural Network (LSTM RNN) to decode the signal
-☒ Convert the NN to a TFLite model (suitable for ESP32)
-☐ Test the NN on the Morseduino
-☐ Build the second prototype (again)
-☐ Implement the ESP-NOW protocol
-☐ Test inter-device communication
-☐ Implement a decent UI
-☐ Implement WiFi communication through Firebase
+- ☒ Build the first prototype 
+- ☒ Test the hardware
+- ~~☒ Build the second prototype~~ *high voltage during the recharge broke the LILYGO*
+- ☒ Build, train and test on KNIME the Neural Network (LSTM RNN) to decode the signal
+- ☒ Convert the NN to a TFLite model (suitable for ESP32)
+- ☐ Test the NN on the Morseduino
+- ☐ Build the second prototype (again)
+- ☐ Implement the ESP-NOW protocol
+- ☐ Test inter-device communication
+- ☐ Implement a decent UI
+- ☐ Implement WiFi communication through Firebase
 
 ## Hardware
 ### Components
