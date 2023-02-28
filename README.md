@@ -62,7 +62,7 @@ The NN has to decode a message, which is a sequence of signals. The signal is a 
 Every signal (characterized by duration and type) has to be decoded with one of the following symbols:
 
 | Symbol | Meaning | Relative duration | Signal type |
-| ------------ | ------------ |
+| ---|---|--- | --- |
 | .  | a dit |1 |High (1) |
 | -  |  a dah|3 | High (1)|
 | * |   an intra-character space |1 | Low (0)|
