@@ -3,9 +3,11 @@
 
 
 # Morseduino32
-#### A compact ESP32-based morse code transceiver
+#### A compact ESP32-based, RNN-powered morse code transceiver
 ## Introduction
 The Morseduino32 is a device which allows to send and receive Morse code to and from another Morseduino32, through the ESP-NOW protocol; the final goal is to implement an online server to send the Morse code through the Internet. The project is still a work-in-progress, so please be patient!
+
+![First test](/media/video.mp4 "First test")
 
 #### Roadmap
 - ☒ Build the first prototype 
